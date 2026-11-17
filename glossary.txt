@@ -6,13 +6,13 @@ Import:
   Your definition:
 
 Clone:
-  Your definition:
+  Your definition: 
 
 Fork:
-  Your definition:
+  Your definition: A eating utenssil that is used be spearing food
 
 Branch:
-  Your definition:
+  Your definition: Part of a tree that comes off of the trunk where leaves can be found
 
 Pull request:
   Your definition:
@@ -23,4 +23,4 @@ Merge:
 Upstream tracking (git push -u):
   Your definition:
 
-Completed by:
+Completed by: Justin Duke
